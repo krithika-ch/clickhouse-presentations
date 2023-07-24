@@ -10,7 +10,7 @@ This event is perfect for anyone interested in learning more about ClickHouse an
 
 * CockroachDB Presentation
 * Remix Presentation
-* ClickHouse Presentation
+* ClickHouse Presentation: Intro Presentation: https://docs.google.com/presentation/d/1tosoeSnq9sB6-jh6TZIO95uY2rxv1fh2fLZBLepIIwU/edit#slide=id.g2506a5b4173_0_910
 * ClickHouse User Presentation (Vantage)
 
 And, of course, there will be plenty of time for food/drink and conversation with your fellow enthusiasts.
