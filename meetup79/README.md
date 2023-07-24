@@ -11,7 +11,7 @@ This event is perfect for anyone interested in learning more about ClickHouse, w
 * Ahmed - ClickHouse to power real-time analytics for Flue, their AI chat product for Shopify stores.
 * Peter - Horizon Blockchain Games
 * Larry - IBM contribution and Kusto Query Language support in ClickHouse
-* Krithika - ClickHouse Roadmap
+* Krithika - ClickHouse Roadmap ; Roadmap Slides: https://docs.google.com/presentation/d/1F0bJe_2JElgSRG50hL_WdDScTexlWeU03tVvTllIt-I/edit#slide=id.g2506a5b4173_0_910
 
 And, of course, there will be plenty of time for food/drink and conversation with your fellow data enthusiasts.
 
